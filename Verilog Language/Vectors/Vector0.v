@@ -11,3 +11,4 @@ assign o1 = vec[1];
 assign 02 = vec[2];
 
 endmodule
+// assigning specific bits to vectors

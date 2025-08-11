@@ -6,5 +6,5 @@ module top_module(
     assign out[23:16] = in[15:8];
     assign out[15:8] = in[23:16];
     assign out[7:0] = in[31:24];
-    
+// bit selection and assigment
 endmodule

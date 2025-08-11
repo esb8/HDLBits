@@ -6,3 +6,4 @@ module top_module(
 assign out_lo[7:0] = in[7:0];
 assign out_hi[7:0] = in[15:8];
 endmodule
+// bit selection to specific vectors. 
